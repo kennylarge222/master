@@ -1,0 +1,16 @@
+span{
+    display: inline;
+    display: inline-block;
+    height: 200px;
+    width: 350px;
+    background-color: blue;
+}
+.features{
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+    margin-left: 40px;
+}
+    
+    
+    

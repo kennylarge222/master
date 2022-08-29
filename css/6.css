@@ -1,0 +1,104 @@
+.html,body{
+    background-color: grey;
+}
+
+
+
+.header{
+    display: flex;
+    align-content: center;
+    justify-content: space-around;
+     color: white;
+    
+}
+
+.box{
+    width: 100%;
+    height: 70px;
+    background-color: black;
+    
+
+}
+.body{
+    padding: 20px;
+    margin: 0px;
+
+}
+.box1{
+    width: 100%;
+    height: 100px;
+    background-color: white;
+    position: relative;
+    top: 20px;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+}
+.young{
+    color: black;
+    margin-top: 5px;
+}
+.box2{
+    display: flex;
+    align-content: center;
+}
+.taiwan.body{
+    padding: 10px;
+    margin: 0px;
+
+}
+.china{
+    margin-left: 10px;
+}
+
+
+.taiwan img{
+     margin-top: 20px;
+     width: 100%;
+    
+    
+}
+.hebrew{
+    width: 70%;
+    height: 100vh;
+    padding: 20px;
+    display: flex;
+    overflow-x: scroll;
+    
+    
+    
+
+    
+    
+    
+
+}
+.hebrewx{
+    display: flex;
+    padding: 20px;
+    
+}
+.span{
+    width: 300px;
+    height: 500px;
+    box-shadow: 0px 0px 8px black;
+    display: block;
+    align-content: center;
+  background-color:  grey;
+  min-width: 250px;
+  
+  
+} 
+.box3{
+    width: 300px;
+    height: 500px;
+    box-shadow: 0px 0px 8px red;
+}
+
+
+
+   
+
+
+
+
